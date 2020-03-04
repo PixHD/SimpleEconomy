@@ -1,0 +1,14 @@
+eco: simpleEconomy.eco.view.self
+eco <player>: simpleEconomy.eco.view.others
+eco add: simpleEconomy.eco.add.self
+eco add <player>: simpleEconomy.eco.add.others
+eco set: simpleEconomy.eco.set.self
+eco set <player>: simpleEconomy.eco.set.others
+eco remove: simpleEconomy.eco.set.self
+eco remove <player>: simpleEconomy.eco.set.others
+eco help: simpleEconomy.eco.help
+
+se: simpleEconomy.basic
+se help: simpleEconomy.help
+se reload: simpleEconomy.reload
+se setcurrency: simpleEconomy.setCurrency

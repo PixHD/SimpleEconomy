@@ -1,0 +1,22 @@
+main: de.famoushistory.EconomySystem.main.Main
+version: 1.0
+name: Simple-Economy
+authors:
+  - Famoushistory
+  - PixHD
+commands:
+  se:
+    description: Main Command für das Plugin Simple-Economy
+    aliases:
+      - simpleEconomy
+      - simple-economy
+      - Simle-Eco
+      - SimpleEco
+    permission: simpleEconomy.help
+  eco:
+    aliases:
+      - economy
+  money:
+    aliases:
+      - balance
+      - bal
