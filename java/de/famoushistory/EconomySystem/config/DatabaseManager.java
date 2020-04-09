@@ -4,9 +4,9 @@ import java.sql.*;
 
 public class DatabaseManager {
 
-    String url = "88.99.35.207";
-    String user = "keys";
-    String password = "muE^7*QgBa%x";
+    String url = "";
+    String user = "";
+    String password = "";
     Connection myCon;
 
     {
